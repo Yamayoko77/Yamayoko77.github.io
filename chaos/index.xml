@@ -6,20 +6,8 @@
     <description>Recent content in 随笔集 on 槐安遇明</description>
     <generator>Hugo -- 0.120.4</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://Yamayoko77.github.io/chaos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>生活所迫</title>
-      <link>https://Yamayoko77.github.io/chaos/draft/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Yamayoko77.github.io/chaos/draft/</guid>
-      <description>Evaluating the Effects of the German Debt Brake: A Capital Stock Pathway 1. Introduction 本节任务（Section brief）. 设定研究问题、说明动机与论证主线，给出全文结构与主要结论。
-德国 Schuldenbremse（债务刹车）于 2009 年写入《基本法》第 109 / 115 条，是欧元区最严格的国家级财政规则之一。其名义目标是限制结构性净借款、维护财政可持续性。然而在过去十五年里，该制度对债务/GDP 比率的实际约束有限，却被反复指责压抑了公共投资、削弱了基础设施与生产率，并在 2023 年宪法法院裁决与 2025 年财政改革之后再次成为政策争议焦点。本文把&amp;quot;债务刹车是否拖累了德国潜在产出&amp;quot;这一总体问题拆解为一条可验证的传导链：
-Debt Brake → 公共投资 ↓ → 公共资本存量 ↓ → 潜在 GDP ↓
-直接对整条链做单一回归会面对重复 identification 与噪音叠加的双重问题。本文采用分段识别策略（segmented identification）：对最有 identification 空间的两段做因果回归，中间一段用核算恒等式与文献顶住。
-[Table 1: 因果链条与证据类型对应表 — 留空]
-主要发现可概括为：(i) 原版 Regression 1 中 StateBrake 由于早期采纳州的选择偏差，无法做因果声明；(ii) 修正后的 Regression 1B 在政府专属投资口径下识别出 Konsolidierungshilfen 受援州在 2011 年后政府投资水平相对下降约 16% 的稳健负效应；(iii) Regression 2 跨国 DID 整体期效应被 Hartz 改革红利掩盖，但 Schwarze Null 阶段（2014–2019）对潜在 GDP 增长的负效应在多重 robustness 下持续显著；(iv) 永续盘存法核算显示德国 2003–2019 年净公共资本存量增长显著落后于法国、荷兰、芬兰等可比经济体。三条窄而干净的证据共同支持&amp;quot;债务刹车通过资本存量渠道、以分阶段方式拖累德国潜在产出&amp;quot;的解释。</description>
-    </item>
     <item>
       <title>The Myriennium Bug</title>
       <link>https://Yamayoko77.github.io/chaos/20260427/</link>
