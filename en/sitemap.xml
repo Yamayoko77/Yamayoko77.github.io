@@ -25,6 +25,7 @@
     <loc>https://Yamayoko77.github.io/novels/magnolia/chapter2/</loc>
   </url><url>
     <loc>https://Yamayoko77.github.io/novels/circlinist/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yamayoko77.github.io/novels/magnolia/chapter3/</loc>
   </url><url>
@@ -36,6 +37,25 @@
     <loc>https://Yamayoko77.github.io/novels/city/</loc>
   </url><url>
     <loc>https://Yamayoko77.github.io/novels/warmeme/</loc>
+  </url><url>
+    <loc>https://Yamayoko77.github.io/chaos/202511113/</loc>
+    <lastmod>2026-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Yamayoko77.github.io/</loc>
+    <lastmod>2026-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://Yamayoko77.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Yamayoko77.github.io/"
+                />
+  </url><url>
+    <loc>https://Yamayoko77.github.io/chaos/</loc>
+    <lastmod>2026-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yamayoko77.github.io/chaos/20260427/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
@@ -52,22 +72,6 @@
                 hreflang="en"
                 href="https://Yamayoko77.github.io/shortstories/20260427/"
                 />
-  </url><url>
-    <loc>https://Yamayoko77.github.io/</loc>
-    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://Yamayoko77.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Yamayoko77.github.io/"
-                />
-  </url><url>
-    <loc>https://Yamayoko77.github.io/chaos/</loc>
-    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yamayoko77.github.io/shortstories/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
@@ -220,6 +224,9 @@
   </url><url>
     <loc>https://Yamayoko77.github.io/chaos/2024051101/</loc>
     <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Yamayoko77.github.io/novels/circlinist/nightmare/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Yamayoko77.github.io/chaos/20200408/</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
